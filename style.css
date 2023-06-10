@@ -1,0 +1,45 @@
+.heading{
+    top: 0;
+    width: 100%;
+}
+.heading h2{
+    float:left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 20px;
+    display: inline;
+
+}
+.heading button{
+    float: right;
+    background-color: rgb(201, 103, 234);
+    border:1px solid white;
+    border-radius: 10px;
+    display: inline;
+    height: 35px;
+}
+#footer{
+  position:fixed;
+    bottom:0;
+    height:30px;
+    width:100%;
+     text-align:center ;
+     background-color: white;
+     margin-top: 50px;
+     font-family: 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-size: cover;
+    
+}
+#re{
+    border: 2px solid white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#re :hover{
+    background-color: rgb(158, 26, 26);
+}
+canvas{
+    border:5px solid skyblue;
+    position: center;
+}
